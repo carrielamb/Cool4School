@@ -1,4 +1,4 @@
-package com.example.cool4school;
+package com.example.schoolforcool;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.cool4school;
+package com.example.schoolforcool;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.cool4school", appContext.getPackageName());
+        assertEquals("com.example.schoolforcool", appContext.getPackageName());
     }
 }
